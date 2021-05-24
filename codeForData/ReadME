@@ -1,0 +1,8 @@
+BCI IV 2a
+
+put the raw data in the folder "braindecode-master/examples/data" and run the code bcic_iv_2a.py under the folder "braindecode-master/examples". The processed .mat files for each subject are saved in the main folder.
+
+
+BCI IV 2b
+
+put the raw data in the folder "braindecode-master/examples/data" and run the code bcic_iv_2b.py under the folder "braindecode-master/examples". The processed .mat files for each subject are saved in the main folder.
