@@ -1,7 +1,7 @@
 # DRDA 
 **Deep Representation-Based Domain Adaptation for Nonstationary EEG Classification**
 
-**Authors**:He Zhao, Qingqing Zheng, Kai Ma, Huiqi Li, Yyfeng Zheng
+**Authors**:He Zhao, Qingqing Zheng, Kai Ma, Huiqi Li, Yefeng Zheng
 [[`Paper`](https://ieeexplore.ieee.org/abstract/document/9154600)]
 
 ### Introduction 
